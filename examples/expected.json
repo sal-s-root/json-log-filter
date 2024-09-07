@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "level": "error",
+      "message": "failed"
+    }
+  ],
+  "total_matches": 1,
+  "truncated": false
+}

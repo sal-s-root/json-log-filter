@@ -1,0 +1,15 @@
+{
+  "match": {
+    "level": "error"
+  },
+  "records": [
+    {
+      "level": "info",
+      "message": "ok"
+    },
+    {
+      "level": "error",
+      "message": "failed"
+    }
+  ]
+}
